@@ -6,6 +6,9 @@
         <link rel="icon" href="favicon.ico">
     </head>
     <body>
+        <?php
+        echo "Hello, PHP!";
+        ?>
         <h1>TEST</h1>
     </body>
 </html>
